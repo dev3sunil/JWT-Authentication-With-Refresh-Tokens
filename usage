@@ -1,0 +1,3 @@
+install npm i express mongoose dotenv joi bcrypt jsonwebtoken  joi-password-complexity
+
+npm start or node app.js to run the application
